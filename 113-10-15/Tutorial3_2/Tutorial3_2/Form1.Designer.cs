@@ -71,7 +71,7 @@
             // txbKm
             // 
             txbKm.Font = new Font("Microsoft JhengHei UI", 24F);
-            txbKm.Location = new Point(360, 68);
+            txbKm.Location = new Point(345, 65);
             txbKm.Name = "txbKm";
             txbKm.Size = new Size(219, 48);
             txbKm.TabIndex = 3;

@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{2889E2E1-24B7-41D0-9F4B-A9B2B9E64F38}|Tutorial3_1\\Tutorial3_1.csproj|solutionrelative:tutorial3_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2889E2E1-24B7-41D0-9F4B-A9B2B9E64F38}|Tutorial3_1\\Tutorial3_1.csproj|c:\\users\\shu\\desktop\\113_1_c_sharp\\113-10-15\\tutorial3_1\\tutorial3_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2889E2E1-24B7-41D0-9F4B-A9B2B9E64F38}|Tutorial3_1\\Tutorial3_1.csproj|C:\\Users\\shu\\Desktop\\113_1_C_Sharp\\113-10-15\\Tutorial3_1\\tutorial3_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2889E2E1-24B7-41D0-9F4B-A9B2B9E64F38}|Tutorial3_1\\Tutorial3_1.csproj|solutionrelative:tutorial3_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -34,20 +34,19 @@
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [\u8A2D\u8A08]",
               "DocumentMoniker": "C:\\Users\\shu\\Desktop\\113_1_C_Sharp\\113-10-15\\Tutorial3_1\\Tutorial3_1\\Form1.cs",
               "RelativeDocumentMoniker": "Tutorial3_1\\Form1.cs",
-              "ToolTip": "C:\\Users\\shu\\Desktop\\113_1_C_Sharp\\113-10-15\\Tutorial3_1\\Tutorial3_1\\Form1.cs [\u8A2D\u8A08]*",
-              "RelativeToolTip": "Tutorial3_1\\Form1.cs [\u8A2D\u8A08]*",
+              "ToolTip": "C:\\Users\\shu\\Desktop\\113_1_C_Sharp\\113-10-15\\Tutorial3_1\\Tutorial3_1\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "Tutorial3_1\\Form1.cs [\u8A2D\u8A08]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T08:06:41.289Z",
-              "EditorCaption": " [\u8A2D\u8A08]"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2024-10-15T08:06:41.289Z"
             }
           ]
         }
