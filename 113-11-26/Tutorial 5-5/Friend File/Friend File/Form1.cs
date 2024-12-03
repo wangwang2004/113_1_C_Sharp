@@ -24,10 +24,11 @@ namespace Friend_File
             try
             {
                 StreamWriter outputFile;
-                outputFile = File.AppendText(@"C: \Users\shu\Desktop\Friends.txt");
-                outputFile.WriteLine(nameTextBox.Text);
-                outputFile.Close();
-                MessageBox.Show("名字已經輸入檔案。");
+               // outputFile = File.AppendText(@"C: \Users\shu\Desktop\Friends.txt");//開啟檔案(決定路徑)
+                outputFile = File.AppendText(@"..\..\..\data\Friends.txt");//開啟檔案(相對路徑)
+                outputFile.WriteLine(nameTextBox.Text);//輸入名字
+                outputFile.Close();//關閉檔案
+                MessageBox.Show("名字已經輸入檔案。");//顯示訊息
             }
             catch(Exception ex)
             {
