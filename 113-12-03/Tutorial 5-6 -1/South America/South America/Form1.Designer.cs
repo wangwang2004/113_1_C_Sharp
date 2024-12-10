@@ -42,6 +42,7 @@
             this.countriesListBox.Name = "countriesListBox";
             this.countriesListBox.Size = new System.Drawing.Size(171, 88);
             this.countriesListBox.TabIndex = 0;
+            this.countriesListBox.SelectedIndexChanged += new System.EventHandler(this.countriesListBox_SelectedIndexChanged);
             // 
             // outputDescriptionLabel
             // 

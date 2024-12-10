@@ -22,12 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -49,7 +45,7 @@
               "RelativeDocumentMoniker": "South America\\Form1.cs",
               "ToolTip": "C:\\Users\\shu\\Desktop\\113_1_C_Sharp\\113-12-03\\Tutorial 5-6 -1\\South America\\South America\\Form1.cs",
               "RelativeToolTip": "South America\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-26T06:50:36.387Z",
               "EditorCaption": ""

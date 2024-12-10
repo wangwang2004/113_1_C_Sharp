@@ -21,6 +21,7 @@ namespace South_America
         private void getCountriesButton_Click(object sender, EventArgs e)
         {
             // 這裡是取得國家按鈕的點擊事件處理程式。
+            exitButton.Text = "離開";
             try
             {
 
@@ -58,6 +59,11 @@ namespace South_America
         {
             // 關閉表單。
             this.Close();
+        }
+
+        private void countriesListBox_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            MessageBox.Show(countriesListBox.SelectedItem.ToString());
         }
     }
 }
